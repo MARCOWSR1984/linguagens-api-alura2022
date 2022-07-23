@@ -3,7 +3,7 @@ package br.com.alura.linguagensapi;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication(scanBasePackages = "LinguagemController.java")
+@SpringBootApplication
 public class LinguagensApiApplication {
 
 	public static void main(String[] args) {
